@@ -1,7 +1,7 @@
 
 ## Christmas Advent Calendar
 
-A simple, festive Advent calendar built with vanilla HTML, CSS, and JavaScript. It renders 24 interactive “doors.” Clicking a door reveals a Christmas-themed image with a 3D flip animation. Doors only open for the current (or past) day in December, based on the user’s local time.
+A simple, festive Advent calendar built with HTML, CSS, and JavaScript. It renders 24 interactive “doors.” Clicking a door reveals a Christmas-themed image with a 3D flip animation. Doors only open for the current (or past) day in December, based on the user’s local time.
 
 ### Features
 - **Interactive doors**: Flip to reveal an image behind each day.
